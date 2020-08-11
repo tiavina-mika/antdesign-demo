@@ -16,3 +16,10 @@
   [data-theme="dark"] .logo {
     background: rgba(255,255,255,0.3);
   }
+
+.button {
+  background-color: #23303e;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 8px;
+}

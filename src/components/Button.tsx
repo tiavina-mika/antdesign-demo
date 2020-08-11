@@ -3,7 +3,7 @@ import { Button } from 'antd';
 
 const ButtonComponent = () => {
   return (
-    <Button type="primary">Primary Button</Button>
+    <Button  className='button' size='large'>Primary Button</Button>
   )
 }
 
